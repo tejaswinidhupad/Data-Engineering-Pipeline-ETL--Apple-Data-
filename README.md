@@ -24,6 +24,6 @@
 
 ### Concept 5 : Different business logic
 - <b> Problem Statement 1 </b> : Customers who have bought Airpods after buying iPhone.
-- Problem Statement 2 : Customers who have bought both Airpods and iPhone.
-- Probelm Statement 3 : List all the products bought by customers after their initial purchase.
+- <b> Problem Statement 2 </b> : Customers who have bought both Airpods and iPhone.
+- <b> Probelm Statement 3 </b> : List all the products bought by customers after their initial purchase.
 
