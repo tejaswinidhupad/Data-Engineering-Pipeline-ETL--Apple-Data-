@@ -12,7 +12,7 @@
 - Create one abstract reader which will use factory pattern
 
 ### Concept 3 : Design Code base
-- Required extractor, transformer and loader class
+- Required Extractor, Transformer and Loader class
 - Required Utils class
 
 ### Concept 4 : Spark concept
