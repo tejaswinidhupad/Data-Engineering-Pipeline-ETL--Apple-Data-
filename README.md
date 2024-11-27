@@ -1,6 +1,6 @@
 # Data-Engineering-Pipeline-ETL-Apple-Data
 
-![ETL Pipeline](dataengineering.jpg)
+![ETL Pipeline](data/dataengineering.jpg)
 
 ### Concept 1 : Learn how to use Databrick env
 - Install Databricks env
