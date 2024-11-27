@@ -24,6 +24,6 @@ Concept 4 : Spark concept
 
 Concept 5 : Different business logic
 - Problem Statement 1 : Customers who have bought Airpods after buying iPhone.
-- Problem Statement 2 : Determine the average time delay buying an iPhone and buying Airpods for each customer.
-- Probelm Statement 3 : Identify the top 3 selling products in each category by total revenue.
+- Problem Statement 2 : Customers who have bought both Airpods and iPhone.
+- Probelm Statement 3 : List all the products bought by customers after their initial purchase.
 
