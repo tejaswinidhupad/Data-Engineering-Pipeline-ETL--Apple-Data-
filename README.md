@@ -23,7 +23,7 @@
 - Job, Stage & Task
 
 ### Concept 5 : Different business logic
-- Problem Statement 1 : Customers who have bought Airpods after buying iPhone.
+- <b> Problem Statement 1 </b> : Customers who have bought Airpods after buying iPhone.
 - Problem Statement 2 : Customers who have bought both Airpods and iPhone.
 - Probelm Statement 3 : List all the products bought by customers after their initial purchase.
 
